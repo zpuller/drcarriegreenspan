@@ -27,7 +27,11 @@
   .jumbotron .logo {
     display: block;
     overflow: hidden;
-    margin: auto;
+    margin: auto; }
     .jumbotron .logo img {
       max-width: 100%; }
-
+  .jumbotron .map {
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    margin: auto; }
